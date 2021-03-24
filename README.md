@@ -3,3 +3,6 @@
 Este é um livro de receitas. Bem vindo.
 
 - Strogonoff de Frango
+- Cachorro quente 
+- Hamburguer 
+- Pastel 
